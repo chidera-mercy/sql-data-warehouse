@@ -25,7 +25,7 @@ This project involves:
 
 ---
 ## Important Links:
-- **[Project Tutorial by Data with Baraa ]([https://youtu.be/9GVqKuTVANE?si=92xzIcUVPdrVva3J]):** SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project
+- **[Project Tutorial by Data with Baraa ](https://youtu.be/9GVqKuTVANE?si=92xzIcUVPdrVva3J):** SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project
 
 ---
 
